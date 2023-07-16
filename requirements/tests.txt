@@ -1,0 +1,5 @@
+pytest==6.2.5
+pytest-asyncio==0.15.1
+asgi-lifespan==1.0.1
+async-asgi-testclient==1.4.6
+httpx==0.19.0

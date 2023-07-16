@@ -1,0 +1,11 @@
+{
+  "debug": true,
+  "salt": "ASHdbasdkwertuyojmgbh.",
+  "db": {
+    "dsn": "postgres://postgres:postgres@db/test_app"
+  },
+  "folders": {
+    "static": "./static",
+    "templates": "./templates"
+  }
+}

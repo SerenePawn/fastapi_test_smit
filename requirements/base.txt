@@ -1,0 +1,12 @@
+fastapi==0.70.1
+asyncpg==0.28.0
+uvicorn==0.16.0
+pydantic==1.8.2
+asyncio==3.4.3
+passlib==1.7.4
+aiosmtplib==1.1.6
+python-multipart==0.0.5
+tortoise-orm[asyncpg]==0.19.3
+iso8601==1.1.0
+pypika-tortoise==0.1.6
+typing_extensions==4.6.3
